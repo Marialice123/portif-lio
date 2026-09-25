@@ -22,9 +22,10 @@
         <section id="home" class="hero-section active-section">
             <div class="hero-content">
                 <div class="hero-text">
-                    <h1>Eleve seu negócio digital<br> a outro nível com um<br> <span>Front-end de qualidade!</span></h1>
-                    <p>Olá! Sou Maria Alice, desenvolvedora Front-end com especialidade em React, HTML e CSS. 
-                        Ajudo pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
+                    <h1>Construindo meu futuro na tecnologia com <br> <span>Desenvolvimento de Sistemas!</span></h1>
+                    <p>Olá! Sou Maria Alice, estudante do curso Técnico em Desenvolvimento de Sistemas, atualmente no 2o módulo.
+Estou desenvolvendo meus conhecimentos em programação, desenvolvimento de web e tecnologia, buscando transformar ideias em soluções 
+criativas e funcionais. Vamos conversar?</p>
                     
                     <div class="hero-buttons">
                         <a href="https://instagram.com" target="_blank" class="btn btn-primary">Instagram</a>
@@ -45,9 +46,10 @@
             <div class="hero-content">
                 <div class="hero-text">
                     <h2>Sobre mim</h2>
-                    <p>Sou um profissional apaixonado por tecnologia, cursando o curso técnico de Desenvolvimento de Sistemas.</p>
-                    <p>O cuidado em identificar pontos críticos no acompanhamento das preferências de consumo 
-                        acarreta um processo de reformulação e modernização das direções referenciais no sentido do progresso.</p>
+                    <p>Sou estudante de Técnico em Desenvolvimento de Sistemas, atualmente no 2o módulo, e tenho interesse em 
+tecnologia e desenvolvimento de soluções digitais.</p>
+                    <p>Durante minha formação, venho aprimorando meus conhecimentoss em programação, desenvolvimentp web e lógica,
+buscando evoluir constantemente e colocar em prática o que aprendo.</p>
                     
                     <div class="hero-buttons">
                         <a href="https://instagram.com" target="_blank" class="btn btn-primary">Instagram</a>
@@ -65,7 +67,7 @@
     </main>
 
     <footer>
-        <p>Desenvolvido por Maria Alice</p>
+        <p>Desenvolvido por Maria Alice | Estudante de Desenvolvimento de Sistemas</p>
     </footer>
 
     <script>
